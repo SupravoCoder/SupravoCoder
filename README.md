@@ -1,42 +1,38 @@
-🚀 Quantum Finance Alpha | Cloud Sorcerer | Code Voyager | Blockchain Explorer | Data Science Alchemist | Economics Artisan 🎩
+# Supravo Biswas's GitHub Profile
 
-👋 Greetings, fellow architects of the digital cosmos! I'm [Your Name], a multidimensional developer immersed in the wonders of quantum finance, cloud computing, blockchain, data science, economics, and the intricate realms of computer science. With a keyboard in hand, I traverse the vast landscape of technologies, weaving a tapestry that combines quantum principles with the latest advancements in cloud, data, and financial technologies.
+## Overview
 
-💹 Quantum Finance Alpha:
-- 🌌 Navigating the quantum landscape with WorldQuant Brain Platform
-- 💼 Crafting financial strategies with quantum algorithms
-- 📈 Exploring the intersection of quantum computing and financial markets
+👋 Hello there! Welcome to my GitHub profile. I am Supravo Biswas, a double degree student currently pursuing a Bachelor of Science (BS) in [Your Major] at the Indian Institute of Technology (IIT) Madras, and a Bachelor of Technology (B.Tech) in Computer Science and Engineering at [Your College/University] affiliated with Maulana Abul Kalam Azad University of Technology (MAKAUT), commonly known as WBUT.
 
-☁️ Cloud Sorcerer:
-- 🌐 Mastering Azure and Google Cloud platforms
-- 🚀 Boosting skills with Microsoft Learn and Google Cloud Skills Boost
-- 🤖 Leveraging cloud services for scalable and robust applications
+## About Me
 
-💻 Code Voyager | Polyglot Developer:
-- 🚀 Fluent in Java, C, and Python
-- 🔗 Building bridges between quantum finance, cloud, and traditional systems
-- 🌐 Exploring the frontiers of Web 3.0 with HTML, CSS, and blockchain technologies
+🎓 I am currently a sophomore, passionate about exploring and learning in the field of computer science and engineering. My academic journey involves a diverse range of subjects, and I am particularly interested in staying updated with the latest trends and domains within the tech industry.
 
-🌐 Web Frameworks and API Backend Maestro:
-- 🌐 Crafting web applications with Java Spring Boot and Python Django
-- 🚀 Designing RESTful APIs for seamless communication between front and backend
-- 🔍 Exploring the vast possibilities of web development with frameworks like Flask and React.js
+## Areas of Interest
 
-📊 Data Science Alchemist:
-- 📚 Delving into statistics and mathematics
-- 🔍 Crafting insights with Python, SQL, and MATLAB
-- 🎲 Exploring the realms of digital and analog data alchemy
+🚀 My main areas of interest include:
 
-🌐 Blockchain Explorer | Web 3.0 Pioneer:
-- 🌐 Diving into decentralized ecosystems with Ethereum, Solidity, and Smart Contracts
-- 🧑‍💻 Learning the art of blockchain development and its applications
+- Python Development
+- Backend and Frontend Frameworks
+- Cybersecurity
+- Quantum Computing
+- Finance and Computing
+- Web 3 and Blockchain
 
-📚 Lifelong Learner:
-- 🌌 Continuously advancing skills in computer science, algorithms, and data structures
-- 📖 Exploring the nuances of economics in the digital age
+## Academics
 
-🎮 Fun Fact: When not deciphering quantum entanglement or exploring the vast possibilities of data, you'll find me immersed in the digital and analog landscapes of economics or creating interactive experiences on Google Arcade.
+- Bachelor of Science (BS) in DataSceince and Applications - Indian Institute of Technology (IIT) Madras
+- Bachelor of Technology (B.Tech) in Computer Science and Engineering - [Your College/University], MAKAUT
 
-🌌 Join me on this cosmic journey as we unravel the mysteries of quantum finance, fortify digital landscapes with cloud magic, explore the decentralized frontiers of Web 3.0, and dive deep into the data realms. Together, let's shape a future where technology, finance, and data converge in a symphony of innovation! 🚀✨
+## Connect with Me
 
-#QuantumFinanceAlpha #CloudSorcerer #CodeVoyager #BlockchainExplorer #DataScienceAlchemist #WebDevMaestro #EconomicsArtisan #TechInnovationPioneer
+📫 Let's connect! Feel free to reach out to me through the following channels:
+
+- [LinkedIn](https://www.linkedin.com/in/supravo-biswas/)
+- Email: cse2022053@rcciit.org.in
+- [Stack Exchange Profile](https://stackexchange.com/users/your-stack-exchange-id)
+
+I am more inclined towards higher studies and research, and I am always open to discussions, collaborations, and learning from the amazing GitHub community. Looking forward to connecting with you!
+
+Happy coding! 🚀
+
