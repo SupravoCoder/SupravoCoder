@@ -22,7 +22,7 @@
 ## Academics
 
 - Bachelor of Science (BS) in DataSceince and Applications - Indian Institute of Technology (IIT) Madras
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering - [Your College/University], MAKAUT
+- Bachelor of Technology (B.Tech) in Computer Science and Engineering - RCCIIT RCC Institute of Information Technology, MAKAUT
 
 ## Connect with Me
 
