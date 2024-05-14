@@ -15,9 +15,10 @@
 - Python Development
 - Backend and Frontend Frameworks
 - Cybersecurity
-- Quantum Computing
+- Mathematics and Computing
 - Finance and Computing
-- Web 3 and Blockchain
+- Always learning AI-ML
+  
 
 ## Academics
 
