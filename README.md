@@ -2,7 +2,7 @@
 
 ## Overview
 
-👋 Hello there! Welcome to my GitHub profile. I am Supravo Biswas, a double degree student currently pursuing a Bachelor of Science (BS) in [Your Major] at the Indian Institute of Technology (IIT) Madras, and a Bachelor of Technology (B.Tech) in Computer Science and Engineering at RCC Institute Of Information Technology affiliated with Maulana Abul Kalam Azad University of Technology (MAKAUT), commonly known as WBUT.
+👋 Hello there! Welcome to my GitHub profile. I am Supravo Biswas, a double degree student currently pursuing a Bachelor of Science (BS) in Data Science at the Indian Institute of Technology (IIT) Madras, and a Bachelor of Technology (B.Tech) in Computer Science and Engineering at RCC Institute Of Information Technology affiliated with Maulana Abul Kalam Azad University of Technology (MAKAUT), commonly known as WBUT.
 
 ## About Me
 
