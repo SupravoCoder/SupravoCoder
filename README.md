@@ -13,12 +13,12 @@
 🚀 My main areas of interest include:
 
 - Python Development
-- Backend and Frontend Frameworks
-- Cybersecurity
-- Mathematics and Computing
-- Finance and Computing
+- Frameworks
+- Cybersecurity + Linux
+- Mathematics for Computing
+- Finance and Computing 
 - Always learning AI-ML
-  
+- Data Structures and Algorithms
 
 ## Academics
 
@@ -33,7 +33,7 @@
 - Email: cse2022053@rcciit.org.in
 - [Stack Exchange Profile](https://stackexchange.com/users/your-stack-exchange-id)
 
-I am more inclined towards higher studies and research, and I am always open to discussions, collaborations, and learning from the amazing GitHub community. Looking forward to connecting with you!
+I am more inclined towards higher studies and research for now , and I am always open to discussions, collaborations, and learning from the amazing GitHub community. Looking forward to connecting with you!
 
 Happy coding! 🚀
 
