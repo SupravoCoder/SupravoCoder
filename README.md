@@ -1,6 +1,3 @@
-Creating a profile README for SupravoCoder is a great way to showcase your skills, projects, and interests to the GitHub community. Here's an example README template you can use:
-
-```markdown
 # Hi there, I'm SupravoCoder! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here you'll find a collection of my projects, contributions, and more about what I do.
@@ -47,11 +44,4 @@ Feel free to reach out if you want to discuss tech, collaborate on projects, or 
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SupravoCoder.SupravoCoder)
-```
 
-To use this template:
-1. Replace placeholder text (like `supravocoder@example.com`) with your actual contact information.
-2. Customize the sections to better reflect your personal style and achievements.
-3. Add links to your projects, blog posts, or any other relevant content.
-
-This README will help others get to know you better and understand your contributions and interests in the developer community. Happy coding!
