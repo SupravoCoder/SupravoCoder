@@ -1,4 +1,4 @@
-# Hi there, I'm SupravoCoder! 👋
+# Hi there, I'm Supravo! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here you'll find a collection of my projects, contributions, and more about what I do.
 
