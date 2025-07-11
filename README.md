@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 How to Reach Me
 
-- **Email:** [supravocoder@example.com](mailto:supravocoder@example.com)
+- **Email:** [supravobiswas@gmail.com](mailto:supravobiswas@gmail.com)
 - **LinkedIn:** [linkedin.com/in/supravocoder](https://linkedin.com/in/supravocoder)
 - **Twitter:** [@SupravoCoder](https://twitter.com/SupravoCoder)
 
@@ -33,8 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🏆 Achievements
 
-- Completed [100 Days of Code](https://www.100daysofcode.com/)
-- Contributed to [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Built and maintained several open-source projects
 
 ## 💬 Let's Connect!
