@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - **Languages:** Python, JavaScript, Java, C
 - **Frameworks:** Streamlit, Flask
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Tools:** Git
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 📈 GitHub Stats
